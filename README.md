@@ -2,18 +2,6 @@
 
 <a href="https://info.flagcounter.com/b8Of"><img src="https://s11.flagcounter.com/count2/b8Of/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <h1 align="center">Hi 👋, I'm yiwenchen</h1>
-<h1 align=“center”>嗨👋，我是yiwenchen</h1>
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<h3 align=“center”>来自印度的热情前端开发人员</h3><h3 align=“left”>与我联系：</h3>
-
-<p align="left">
-</p>
-<p align=“left”></p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <h3 align=“left”>语言和工具：</h3>
 
